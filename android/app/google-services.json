@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "721231982543",
+    "project_id": "travelmaker-ac636",
+    "storage_bucket": "travelmaker-ac636.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721231982543:android:520ec7ce28868cc92becba",
+        "android_client_info": {
+          "package_name": "com.example.travelmaker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMxROVsC-vubKaL1NF-4sbt2kzxYv_MhE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
